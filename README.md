@@ -1,1 +1,1 @@
-# JavaScript-course-2015-GB
+# JavaScript-course-2015-🇬🇧
